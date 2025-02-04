@@ -1,2 +1,22 @@
-# ShiftManger
-An automated employee shift scheduling system
+# Smart Shift Scheduler
+
+מערכת חכמה לניהול וסידור משמרות עובדים
+
+## מטרות המערכת
+- ניהול עובדים ומשמרות
+- הגשת בקשות זמינות
+- בניית סידור עבודה אוטומטי
+- ניהול החלפות משמרות
+
+## טכנולוגיות
+- Frontend: React, TypeScript
+- Backend: Node.js, Express
+- Database: PostgreSQL
+- Authentication: JWT
+
+## שלבי פיתוח
+1. הקמת תשתית בסיסית
+2. ניהול עובדים ומשמרות
+3. מערכת הגשת בקשות
+4. אלגוריתם בניית סידור
+5. ממשק ניהול והתראות
